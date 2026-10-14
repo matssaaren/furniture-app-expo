@@ -1,0 +1,274 @@
+{
+  "categories": [
+    {
+      "id": "popular",
+      "label": "Popular",
+      "icon": "star"
+    },
+    {
+      "id": "chair",
+      "label": "Chair",
+      "icon": "chair-rolling"
+    },
+    {
+      "id": "table",
+      "label": "Table",
+      "icon": "table-furniture"
+    },
+    {
+      "id": "armchair",
+      "label": "Armchair",
+      "icon": "sofa-single"
+    },
+    {
+      "id": "bed",
+      "label": "Bed",
+      "icon": "bed-queen-outline"
+    },
+    {
+      "id": "lamp",
+      "label": "Lamp",
+      "icon": "floor-lamp"
+    }
+  ],
+  "defaults": {
+    "homeOrder": [
+      "black-simple-lamp",
+      "minimal-stand",
+      "coffee-chair",
+      "simple-desk"
+    ],
+    "favoriteIds": [
+      "coffee-table",
+      "coffee-chair",
+      "minimal-stand",
+      "minimal-desk",
+      "minimal-lamp"
+    ],
+    "listingIds": [
+      "coffee-table",
+      "coffee-chair",
+      "minimal-stand"
+    ]
+  },
+  "products": [
+    {
+      "id": "listing-cdfbee3b-53c9-4a12-b74b-7e94282c82fb",
+      "name": "Rattan Lounge Chair",
+      "category": "chair",
+      "cardPrice": 145,
+      "detailPrice": 145,
+      "description": "A relaxed rattan lounge chair with a supportive back and an airy shape for reading corners.",
+      "imagePath": "/uploads/1774570757087-3c09cf2d-5d09-4038-ad43-9b3c56879f12.jpg",
+      "sellerName": "Qq",
+      "sellerEmail": "qq@g.com",
+      "ownerId": "user-054e4d3c-768e-407c-b577-8568e6c21e11"
+    },
+    {
+      "id": "listing-a62a6e96-a9f5-4ee7-aacd-345cac1bde80",
+      "name": "Oak Entry Console",
+      "category": "table",
+      "cardPrice": 180,
+      "detailPrice": 180,
+      "description": "A slim oak console table with a generous surface for keys, books, and everyday essentials.",
+      "imagePath": "/uploads/1774568905935-e6ca0c71-6d7b-4dfe-aec5-0dca971916c8.jpg",
+      "sellerName": "Doe1",
+      "sellerEmail": "doe@g.com",
+      "ownerId": "user-d6baa428-455c-420e-a2bd-65948e28431a"
+    },
+    {
+      "id": "black-simple-lamp",
+      "name": "Arc Reading Lamp",
+      "category": "lamp",
+      "cardPrice": 38,
+      "detailPrice": 38,
+      "description": "A curved metal reading lamp that directs a warm pool of light beside a sofa or armchair.",
+      "imagePath": "/products/lamp.jpg",
+      "sellerName": "Elina Hovakimyan",
+      "sellerEmail": "hello@gmail.com",
+      "ownerId": null
+    },
+    {
+      "id": "minimal-lamp",
+      "name": "Linen Table Lamp",
+      "category": "lamp",
+      "cardPrice": 46,
+      "detailPrice": 46,
+      "description": "A compact linen-shade lamp with a gentle glow for bedside tables and quiet living rooms.",
+      "imagePath": "/products/lamp.jpg",
+      "sellerName": "Elina Hovakimyan",
+      "sellerEmail": "hello@gmail.com",
+      "ownerId": null
+    },
+    {
+      "id": "minimal-stand",
+      "name": "Walnut Plant Stand",
+      "category": "table",
+      "cardPrice": 42,
+      "detailPrice": 42,
+      "description": "A sturdy walnut stand that lifts plants, sculptures, and favorite objects into view.",
+      "imagePath": "/products/stand.jpg",
+      "sellerName": "Elina Hovakimyan",
+      "sellerEmail": "hello@gmail.com",
+      "ownerId": null
+    },
+    {
+      "id": "coffee-chair",
+      "name": "Curved Dining Chair",
+      "category": "chair",
+      "cardPrice": 72,
+      "detailPrice": 72,
+      "description": "A comfortable curved dining chair with a supportive seat and clean legs for modern dining rooms.",
+      "imagePath": "/products/chair.jpg",
+      "sellerName": "Elina Hovakimyan",
+      "sellerEmail": "hello@gmail.com",
+      "ownerId": null
+    },
+    {
+      "id": "simple-desk",
+      "name": "Haven Work Desk",
+      "category": "table",
+      "cardPrice": 265,
+      "detailPrice": 265,
+      "description": "A practical home office desk with a broad work surface and a calm, solid-wood profile.",
+      "imagePath": "/products/desk.jpg",
+      "sellerName": "Elina Hovakimyan",
+      "sellerEmail": "hello@gmail.com",
+      "ownerId": null
+    },
+    {
+      "id": "minimal-desk",
+      "name": "Two-Drawer Writing Desk",
+      "category": "table",
+      "cardPrice": 310,
+      "detailPrice": 310,
+      "description": "A refined writing desk with two drawers for stationery and a comfortable surface for focused work.",
+      "imagePath": "/products/desk.jpg",
+      "sellerName": "Elina Hovakimyan",
+      "sellerEmail": "hello@gmail.com",
+      "ownerId": null
+    },
+    {
+      "id": "coffee-table",
+      "name": "Round Nesting Table",
+      "category": "table",
+      "cardPrice": 155,
+      "detailPrice": 155,
+      "description": "A round nesting table set with soft edges that brings flexible surface space to a lounge area.",
+      "imagePath": "/products/coffee-table.jpg",
+      "sellerName": "Elina Hovakimyan",
+      "sellerEmail": "hello@gmail.com",
+      "ownerId": null
+    }
+  ],
+  "users": [
+    {
+      "id": "user-elina",
+      "name": "Elina Hovakimyan",
+      "email": "hello@gmail.com",
+      "password": "password123",
+      "favoriteIds": [
+        "coffee-table"
+      ],
+      "listingIds": [
+        "coffee-table",
+        "coffee-chair",
+        "minimal-stand"
+      ]
+    },
+    {
+      "id": "user-40d948b4-1ac2-4d83-b43e-74cbb46ada43",
+      "name": "Test User",
+      "email": "testuser_2e3ef4cf@mail.com",
+      "password": "secret123",
+      "favoriteIds": [
+        "coffee-table",
+        "coffee-chair",
+        "minimal-stand",
+        "minimal-desk",
+        "minimal-lamp"
+      ],
+      "listingIds": [
+        "coffee-table",
+        "coffee-chair",
+        "minimal-stand"
+      ]
+    },
+    {
+      "id": "user-f1d48cea-7e57-4c70-a3e6-83f44412eaca",
+      "name": "Test User",
+      "email": "test_bb4ec0d2@example.com",
+      "password": "password123",
+      "favoriteIds": [
+        "coffee-table",
+        "coffee-chair",
+        "minimal-stand",
+        "minimal-desk",
+        "minimal-lamp"
+      ],
+      "listingIds": [
+        "coffee-table",
+        "coffee-chair",
+        "minimal-stand"
+      ]
+    },
+    {
+      "id": "user-d6baa428-455c-420e-a2bd-65948e28431a",
+      "name": "Doe1",
+      "email": "doe@g.com",
+      "password": "qwerty",
+      "favoriteIds": [
+        "coffee-table",
+        "coffee-chair"
+      ],
+      "listingIds": [
+        "listing-a62a6e96-a9f5-4ee7-aacd-345cac1bde80",
+        "coffee-table",
+        "coffee-chair",
+        "minimal-stand"
+      ]
+    },
+    {
+      "id": "user-9e7d11b4-668b-4c9a-a588-74f52ab7c211",
+      "name": "Verify User",
+      "email": "verify_119ddf5b@example.com",
+      "password": "password123",
+      "favoriteIds": [
+        "coffee-table",
+        "coffee-chair",
+        "minimal-stand",
+        "minimal-desk",
+        "minimal-lamp"
+      ],
+      "listingIds": [
+        "coffee-table",
+        "coffee-chair",
+        "minimal-stand"
+      ]
+    },
+    {
+      "id": "user-054e4d3c-768e-407c-b577-8568e6c21e11",
+      "name": "Qq",
+      "email": "qq@g.com",
+      "password": "qq",
+      "favoriteIds": [
+        "coffee-table",
+        "coffee-chair",
+        "minimal-stand",
+        "minimal-desk",
+        "minimal-lamp"
+      ],
+      "listingIds": [
+        "listing-cdfbee3b-53c9-4a12-b74b-7e94282c82fb",
+        "coffee-table",
+        "coffee-chair",
+        "minimal-stand"
+      ]
+    }
+  ],
+  "helpCenter": {
+    "faq": "All listings are stored locally for this demo app. You can add, remove, favorite, and edit content without any external service.",
+    "contactUs": "Need help with the demo? Reach out to mats.saaren@voco.ee and use the subject line Furniture Store Support.",
+    "privacyTerms": "This demo backend stores user data in a local JSON file inside the project workspace."
+  }
+}
