@@ -5,6 +5,8 @@ A small offline mobile app built with Expo, React Native, and TypeScript.
 ## Install
 
 ```powershell
+git clone https://github.com/matssaaren/furniture-app-expo
+cd furniture-app-expo
 npm install
 ```
 
